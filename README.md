@@ -1,6 +1,7 @@
 <div>
   <a href="https://github.com/otavio-azevedo">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-azevedo&layout=compact&langs_count=20&theme=gotham"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=otavio-azevedo&layout=compact&langs_count=20&theme=gotham"/>
+
 </div>
   
 <div style="display: inline_block"><br>
